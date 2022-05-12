@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ypackage"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["Martin Prudek <martin@prudek.eu>"]
 
